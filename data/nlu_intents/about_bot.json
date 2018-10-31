@@ -1,0 +1,31 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "What are you capabilities boteos",
+        "intent": "about_bot",
+        "entities": []
+      },
+      {"text": "who are you", "intent": "about_bot", "entities": []},
+      {"text": "what can you do boteos", "intent": "about_bot", "entities": []},
+      {"text": "tell me about you", "intent": "about_bot", "entities": []},
+      {"text": "about you", "intent": "about_bot", "entities": []},
+      {"text": "boteos", "intent": "about_bot", "entities": []},
+      {
+        "text": "What are you capabilities",
+        "intent": "about_bot",
+        "entities": []
+      },
+      {
+        "text": "tell me about you boteos",
+        "intent": "about_bot",
+        "entities": []
+      },
+      {"text": "who are you boteos", "intent": "about_bot", "entities": []},
+      {"text": "what can you do", "intent": "about_bot", "entities": []},
+      {"text": "about you boteos", "intent": "about_bot", "entities": []}
+    ]
+  }
+}

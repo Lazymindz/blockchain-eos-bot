@@ -1,0 +1,19 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {"text": "hello boteos", "intent": "greet", "entities": []},
+      {"text": "hey boteos", "intent": "greet", "entities": []},
+      {"text": "greetings", "intent": "greet", "entities": []},
+      {"text": "hi", "intent": "greet", "entities": []},
+      {"text": "how are you boteos", "intent": "greet", "entities": []},
+      {"text": "hello", "intent": "greet", "entities": []},
+      {"text": "hi boteos", "intent": "greet", "entities": []},
+      {"text": "hey", "intent": "greet", "entities": []},
+      {"text": "greetings boteos", "intent": "greet", "entities": []},
+      {"text": "boteos", "intent": "greet", "entities": []},
+      {"text": "how are you", "intent": "greet", "entities": []}
+    ]
+  }
+}

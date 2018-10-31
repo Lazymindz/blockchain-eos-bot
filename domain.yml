@@ -1,0 +1,25 @@
+intents:
+- greet
+- goodbye
+- about_bot
+
+templates:
+  utter_greet:
+    - "Hello there! how can I help"
+    - "How can I help!"
+    - "Hi There!"
+    - "Hi. how can I help"
+  utter_goodbye:
+    - "Thanks for the chit chat. Bye!"
+    - "Bye"
+    - "goodbye"
+    - "Have a nice day!"
+  utter_about_bot:
+    - "Here are all the FAQs I can answer :
+      1. About Me
+      2. About our Company
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_about_bot
